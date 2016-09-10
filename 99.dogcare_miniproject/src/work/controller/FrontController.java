@@ -27,7 +27,7 @@ import work.model.service.OwnerService;
  */
 @WebServlet("/Controller")
 public class FrontController extends HttpServlet {
-
+	/** 업데이트
 	/** 맡기미회원관리 Service 객체 생성 */
 	private OwnerService ownerService = new OwnerService();
 
