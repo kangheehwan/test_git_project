@@ -1,0 +1,215 @@
+@CHARSET "EUC-KR";
+
+<style>
+      #container {
+        width: 100%;
+        padding: 20px;
+        border: 1px solid #bcbcbc;
+      }
+      
+      #header {
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #bcbcbc;
+      }
+      #content {
+        width: 100%;
+        height: 800px;
+        margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      #contentCaring {
+        width: 100%;
+        height: 300px;
+        margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      
+       #contentCare {
+        width: 100%;
+        height: 400px;
+        margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      
+      #contentCheckManager {
+        width: 100%;
+        height: 900px;
+        margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      
+      #enrollManger {
+        width: 100%;
+        height: 900px;
+        margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      
+      #logincontent{
+      	width: 100%;
+       	height:300px;
+      	margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      #loginingcontent{
+      	width: 100%;
+       	height:750px;
+      	margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+      
+      #findcontent{
+      	width: 100%;
+       	height:650px;
+      	margin-bottom: 20px;
+        float: center;
+        border: 1px solid #bcbcbc;
+      }
+     
+      #footer {
+      	text-decoration: none;
+        clear: both;
+        color:#6EB9B5;
+        padding: 40px;
+        border: 1px solid #bcbcbc;
+      }
+      
+      #align-right{
+      text-align:right;
+      }
+      
+      #bottomaddress {
+		text-decoration: none;
+		color: blue;
+		text-align:right;
+		font-size: 13px;
+	 }
+		
+	#login {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 15px;
+		width: 350px;
+		height: 200px;
+		padding: 100px;
+		border: 3px solid #6EB9B5;
+	}
+	
+	#find {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 15px;
+		width: 270px;
+		height: 200px;
+		margin-top:100px;
+		padding: 100px;
+		border: 3px solid #6EB9B5;
+	}
+	
+	
+	
+	
+	#enroll {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 13px;
+		width: 350px;
+		height: 450px;
+		padding:30px;
+		border: 3px solid #6EB9B5;
+	}
+	
+	#enrollInsert {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 13px;
+		width: 400px;
+		height: 450px;
+		padding:30px;
+		border: 3px solid #6EB9B5;
+	}
+	
+	#enrollManager {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 13px;
+		width: 400px;
+		height: 600px;
+		padding:30px;
+		border: 3px solid #6EB9B5;
+	}
+	#enrollCheckManager {
+		font-face: "¸¼Àº °íµñ";
+		font-weight: bold;
+		font-size: 13px;
+		width: 350px;
+		height: 600px;
+		padding:30px;
+		border: 3px solid #6EB9B5;
+	}
+		
+		a.bottommenu {
+		text-decoration: none;
+		color: #6EB9B5;
+		text-align:right;
+		font-size: 15px;
+		}
+		
+      
+ 
+      a.topmenu {
+		text-decoration: none;
+		color: #F8FAFA;
+		font-size: 30px;
+		float: center;
+		margin: 90px;
+		margin-right:80px;
+	}
+      
+      a.topside {
+		text-decoration: none;
+		color: #6EB9B5;
+		font-size: 13px;
+		font-weight: bold;
+		margin: 2px;
+	}
+      
+    
+      div.menu {
+		background-color: #E8C223;
+		height: 50px;
+		float: center;
+	}
+	
+	span.check {
+		font-size: 13px;
+		font-weight: bold;
+		color: #E8C223;
+	}
+
+	span.enroll {
+		font-size: 20px;
+		font-weight: bold;
+		color: #E8C223;
+	}
+
+	
+	
+       
+      
+    </style>
+
